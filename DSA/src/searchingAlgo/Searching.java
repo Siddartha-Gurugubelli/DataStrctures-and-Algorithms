@@ -1,4 +1,4 @@
-package algorithms;
+package searchingAlgo;
 
 public class Searching {
 
